@@ -28,9 +28,9 @@ Check out my [GitHub Repositories](https://github.com/mhatreojas) for more cool 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?mhatreojas=mhatreojas&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhatreojas&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?mhatreojas=mhatreojas&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhatreojas&layout=compact&theme=radical)
 
 ---
 
