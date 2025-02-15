@@ -15,8 +15,8 @@ I'm a passionate Computer Engineering student exploring the world of technology,
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: C/C++, Python, JavaScript, HTML/CSS, Assembly
-- **Frameworks/Tools**: React, Node.js, Express
+- **Languages**: JAVA, C/C++, Python, JavaScript, HTML/CSS, Assembly
+- **Frameworks/Tools**: React, Node.js, Express, Git, Github
 - **Databases**: MySQL, MongoDB
 
 ---
