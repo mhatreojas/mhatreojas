@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I'm currently learning Advanced DSA<br>👯 I'm looking to collaborate on Open Source Projects<br>💬 Ask me about JavaScript, React, Node.js<br>📫 How to reach me: mhatreojas192@gmail.com<br>⚡ Fun fact: I am a quick learner and can adapt to any tech in minimum time possible
 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=mhatreojas)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ojasnm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mhatreojas192@gmail.com) 
