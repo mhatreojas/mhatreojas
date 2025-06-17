@@ -1,4 +1,4 @@
-![Header](./github-header-image(3).png)
+![Header](./header.png)
 # 💫 About Me:
 🌱 I'm currently learning Advanced DSA<br>👯 I'm looking to collaborate on Open Source Projects<br>💬 Ask me about JavaScript, React, Node.js<br>📫 How to reach me: mhatreojas192@gmail.com<br>⚡ Fun fact: I am a quick learner and can adapt to any tech in minimum time possible
 
